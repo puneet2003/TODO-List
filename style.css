@@ -149,3 +149,8 @@ main{
     
 }
 
+.task-done {
+    /* color: black; */
+    text-decoration: line-through;
+}
+
